@@ -4,21 +4,22 @@ A responsive web application for booking healthcare appointments built with Reac
 
 ## 📸 Application Screenshots
 
-### Home Page
-![Home Page](https://images.pexels.com/photos/4386466/pexels-photo-4386466.jpeg?auto=compress&cs=tinysrgb&w=1200)
+### 🏠 Home Page  
+![Home Page](https://res.cloudinary.com/drecb9hgv/image/upload/v1754126743/Screenshot_2025-08-02_145254_ktwl0e.png)
 *Clean and modern landing page displaying available doctors with search functionality and key statistics*
 
-### Doctor Profile Page
-![Doctor Profile](https://images.pexels.com/photos/4386464/pexels-photo-4386464.jpeg?auto=compress&cs=tinysrgb&w=1200)
+### 👨‍⚕️ Doctor Profile Page  
+![Doctor Profile](https://res.cloudinary.com/drecb9hgv/image/upload/v1754126913/Screenshot_2025-08-02_145807_phoqw8.png)
 *Detailed doctor information including qualifications, experience, weekly schedule, and booking options*
 
-### Appointment Booking Page
-![Booking Page](https://images.pexels.com/photos/4386465/pexels-photo-4386465.jpeg?auto=compress&cs=tinysrgb&w=1200)
+### 📅 Appointment Booking Page  
+![Booking Page](https://res.cloudinary.com/drecb9hgv/image/upload/v1754127043/Screenshot_2025-08-02_150023_hkyefw.png)
 *User-friendly booking form with validation and appointment summary*
 
 ## 🚀 Live Demo
 
-The application is deployed and accessible at: [Your Deployment URL]
+The application is deployed and accessible at: [https://healthcare-appointment-booking-app-ochre.vercel.app/](https://healthcare-appointment-booking-app-ochre.vercel.app/)
+
 
 ## 📋 Features
 
@@ -99,7 +100,6 @@ npm install
 npm run dev
 ```
 
-4. Open your browser and navigate to `http://localhost:5173`
 
 ### Build for Production
 
@@ -137,3 +137,5 @@ The application is fully responsive and optimized for:
 - **Lucide** for the beautiful icon set
 - **Tailwind CSS** for the utility-first CSS framework
 - **React Team** for the amazing JavaScript library
+
+**👩‍💻 Built with ❤️ — a responsive healthcare booking app.**
