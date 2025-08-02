@@ -6,15 +6,15 @@ A responsive web application for booking healthcare appointments built with Reac
 
 ### 🏠 Home Page  
 ![Home Page](https://res.cloudinary.com/drecb9hgv/image/upload/v1754126743/Screenshot_2025-08-02_145254_ktwl0e.png)
-*Clean and modern landing page displaying available doctors with search functionality and key statistics*
+*Clean and modern landing page displaying available doctors with search functionality and key statistics.*
 
 ### 👨‍⚕️ Doctor Profile Page  
 ![Doctor Profile](https://res.cloudinary.com/drecb9hgv/image/upload/v1754126913/Screenshot_2025-08-02_145807_phoqw8.png)
-*Detailed doctor information including qualifications, experience, weekly schedule, and booking options*
+*Detailed doctor information including qualifications, experience, weekly schedule, and booking options.*
 
 ### 📅 Appointment Booking Page  
 ![Booking Page](https://res.cloudinary.com/drecb9hgv/image/upload/v1754127043/Screenshot_2025-08-02_150023_hkyefw.png)
-*User-friendly booking form with validation and appointment summary*
+*User-friendly booking form with validation and appointment summary.*
 
 ## 🚀 Live Demo
 
